@@ -63,7 +63,7 @@ RESTful API service for blog management with user authentication, category filte
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeorbit&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeorbit-avi&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
 ---
