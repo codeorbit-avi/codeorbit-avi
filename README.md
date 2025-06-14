@@ -79,6 +79,7 @@ I enjoy transforming ideas into real-world solutions and collaborating with dyna
 ---
 
 ⭐️ *If you like my work, feel free to follow me and ⭐️ a few repositories!*
+  Email : avinashwaghmare6224@gmail.com
 
 
 <!--# about_me
