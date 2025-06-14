@@ -1,4 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Avinash Waghmare 👋</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer | Software Engineer | Problem Solver</strong><br/>
+  Passionate about building scalable, user-focused web applications.
+</p>
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🔗 [Portfolio Website](https://portfolio-web-nextjs-azure.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-waghmare-365726189/)
+- 📧 Email: avinashwaghmare321@gmail.com
+
+---
+
+### 👨‍💻 About Me
+
+I’m a dedicated and detail-oriented Full-Stack Developer with experience in designing and building web applications using modern technologies such as **React.js**, **Node.js**, **MongoDB**, and **Python**. My technical journey is fueled by a passion for clean code, efficient problem-solving, and delivering impactful digital experiences.
+
+I specialize in crafting responsive frontends and building scalable backend APIs. I thrive in collaborative environments and am always eager to learn and contribute to innovative projects.
+
+---
+
+### 🔧 Technical Skills
+
+**Languages & Frameworks**  
+`JavaScript` · `React.js` · `Node.js` · `Express.js` · `Python` · `Django` · `HTML5` · `CSS3` · `Tailwind CSS`
+
+**Databases**  
+`MongoDB` · `MySQL` · `PostgreSQL`
+
+**Tools & Platforms**  
+`Git & GitHub` · `Docker` · `Postman` · `Vercel` · `Netlify` · `AWS (EC2, S3)` · `Linux/Unix`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🩺 Doctor Consultation Platform  
+A complete full-stack application where patients can book consultations, submit medical history, and doctors can manage prescriptions.  
+**Tech:** React, Node.js, MongoDB, Tailwind CSS  
+[View Repository](#)
+
+#### 🌐 Personal Portfolio Website  
+Modern, responsive developer portfolio built using Next.js and Tailwind CSS to showcase skills and projects.  
+**Tech:** Next.js, Tailwind CSS  
+[Live Demo](https://portfolio-web-nextjs-azure.vercel.app/)
+
+#### 📝 Blog Management API  
+RESTful API service for blog management with user authentication, category filtering, and post creation.  
+**Tech:** Django, PostgreSQL  
+[View Repository](#)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 Let's Collaborate
+
+I’m currently open to opportunities in full-stack and backend development roles. I’m especially interested in working on impactful products in tech-driven environments with collaborative teams.
+
+If you’re building something exciting or have a position that matches my skills, feel free to reach out!
+
+---
+
+<p align="center">
+  <em>"Code is more than syntax—it's a solution to real problems."</em>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <h1 align="center">Hi there, I'm Avinash Waghmare 👋</h1>
 
 <p align="center">
