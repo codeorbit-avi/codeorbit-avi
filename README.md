@@ -26,7 +26,7 @@ I specialize in crafting responsive frontends and building scalable backend APIs
 ### 🔧 Technical Skills
 
 **Languages & Frameworks**  
-`JavaScript` · `React.js` · `Node.js` · `Express.js` · `Python` · `Django` · `HTML5` · `CSS3` · `Tailwind CSS`
+`JavaScript` · `React.js` · `Next.js` · `Node.js` · `Express.js` · `Python` · `Django` · `HTML5` · `CSS3` · `Tailwind CSS`
 
 **Databases**  
 `MongoDB` · `MySQL` · `PostgreSQL`
