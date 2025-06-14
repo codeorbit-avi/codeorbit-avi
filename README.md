@@ -11,7 +11,7 @@
 
 - 🔗 [Portfolio Website](https://portfolio-web-nextjs-azure.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/avinash-waghmare-365726189/)
-- 📧 Email: avinashwaghmare321@gmail.com
+- 📧 Email: avinashwaghmare6224@gmail.com
 
 ---
 
@@ -56,6 +56,7 @@ RESTful API service for blog management with user authentication, category filte
 ---
 
 ### 📈 GitHub Stats
+<h3 align="left">🔥   My Stats :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeorbit-avi&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
@@ -64,18 +65,6 @@ RESTful API service for blog management with user authentication, category filte
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeorbit&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash768&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash768&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=avinash768&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 ---
 
@@ -91,43 +80,7 @@ If you’re building something exciting or have a position that matches my skill
   <em>"Code is more than syntax—it's a solution to real problems."</em>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
-<h1 align="center">Hi there, I'm Avinash Waghmare 👋</h1>
-
-<p align="center">
-  🚀 Full-Stack Developer | 💡 Problem Solver | 📘 Lifelong Learner  
-</p>
-
----
-
-### 🔗 Portfolio & Connect
-
-- 🔗 [Portfolio Website](https://portfolio-web-nextjs-azure.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-waghmare-365726189/)
-- 📬 Email: avinashwaghmare6224@gmail.com
-
----
-
-### 👨‍💻 About Me
-
-I'm a passionate Full-Stack Developer with hands-on experience in building modern, scalable web applications. I love working with **React**, **Node.js**, and **MongoDB**, and continuously exploring new technologies like **Python**, **Django**, and **Cloud Platforms**.
-
-I enjoy transforming ideas into real-world solutions and collaborating with dynamic teams that value clean code, innovation, and user experience.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -149,32 +102,6 @@ I enjoy transforming ideas into real-world solutions and collaborating with dyna
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
 ![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify)  
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
-
----
-
-### 💼 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|-------------|-------------|
-| **Doctor Consultation App** | React, Node.js, MongoDB, Tailwind | A full-stack platform where patients can consult doctors, share medical history, and get prescriptions. |
-| **Portfolio Website** | Next.js, Tailwind CSS | Responsive and modern portfolio showcasing my skills and projects. |
-| **Blog API** | Django, PostgreSQL | A RESTful API for managing blog posts, categories, and user authentication. |
-
-👉 View all projects at: [GitHub Repositories](https://github.com/yourusername?tab=repositories)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Avinash's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 
 
 <div align="left">
