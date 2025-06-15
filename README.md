@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avinash Waghmare 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Front-End Developer | Devops Developer | Software Engineer | Problem Solver</strong><br/>
+  <strong>Full-Stack Developer | Front-End Developer | Devops Engineer | Software Engineer | Problem Solver</strong><br/>
   Passionate about building scalable, user-focused web applications.
 </p>
 
