@@ -9,7 +9,7 @@
 
 ### 🌐 Portfolio & Contact
 
-- 🔗 [Portfolio Website](https://codeorbit-avi.github.io/portfolio/#contact)
+- 🔗 [Portfolio Website](https://codeorbit-avi.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/avinash-waghmare-365726189/)
 - 📧 Email: avinashwaghmare6224@gmail.com
 
